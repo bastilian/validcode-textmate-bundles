@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ '${1:vendor?}' | link_to_vendor }}</string>
+	<key>name</key>
+	<string>vendor_link</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>lvu</string>
+	<key>uuid</key>
+	<string>80939E98-3AAB-4D9F-9EC4-A534F0CDBF80</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>cart.total_price</string>
+	<key>name</key>
+	<string>cart.total_price</string>
+	<key>scope</key>
+	<string>source.liquid.output.embedded.html, source.liquid.tags.embedded.html</string>
+	<key>tabTrigger</key>
+	<string>lcp</string>
+	<key>uuid</key>
+	<string>68ABCD3F-6AF8-4BC0-9416-137B3F9D5619</string>
+</dict>
+</plist>

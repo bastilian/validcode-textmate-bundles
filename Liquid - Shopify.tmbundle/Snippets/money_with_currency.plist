@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ ${1:price variable?} | money_with_currency }}</string>
+	<key>name</key>
+	<string>money_with_currency</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>lmc</string>
+	<key>uuid</key>
+	<string>9B815D70-9051-4C2B-B3D0-196600A94F3F</string>
+</dict>
+</plist>

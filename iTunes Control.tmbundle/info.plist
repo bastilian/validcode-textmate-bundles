@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>iTunes Control</string>
+	<key>ordering</key>
+	<array>
+		<string>6504F68A-183A-4E8A-9E07-C3958EF0CA88</string>
+		<string>0C78EAF0-D82F-4B74-BFE0-FBB2419B1BD9</string>
+		<string>F70F2B34-9A52-45D0-9435-A8C6D5EFCD05</string>
+		<string>327D4DF2-9926-4850-96EF-325F62A878B4</string>
+		<string>F99CF52D-3E75-4841-AB21-74501BB9DBF6</string>
+	</array>
+	<key>uuid</key>
+	<string>B83A69EC-829C-47B5-99F0-9BD533B62828</string>
+</dict>
+</plist>

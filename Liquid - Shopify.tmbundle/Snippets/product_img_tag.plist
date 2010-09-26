@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ ${1:image?} | product_img_url: '${2:size?}' | img_tag }}</string>
+	<key>name</key>
+	<string>product_img_tag</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>lpit</string>
+	<key>uuid</key>
+	<string>3E58F0CD-9D1A-430C-9995-0D3E7D3333A2</string>
+</dict>
+</plist>

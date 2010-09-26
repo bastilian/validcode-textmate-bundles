@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ '${1:link-title}' | link_url: '${3:link-url}' }}</string>
+	<key>name</key>
+	<string>link_tag</string>
+	<key>scope</key>
+	<string></string>
+	<key>tabTrigger</key>
+	<string>llink</string>
+	<key>uuid</key>
+	<string>20976015-EF63-4528-B7B2-A3D3D758FE7B</string>
+</dict>
+</plist>

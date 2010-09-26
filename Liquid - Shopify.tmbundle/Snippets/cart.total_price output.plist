@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ cart.total_price | money }}</string>
+	<key>name</key>
+	<string>cart.total_price output</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>lcp</string>
+	<key>uuid</key>
+	<string>C28FFBEF-0DF7-42EA-9BF8-4BA88AAE0B83</string>
+</dict>
+</plist>

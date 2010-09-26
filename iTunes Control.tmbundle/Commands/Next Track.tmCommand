@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>osascript -e 'tell app "iTunes" to next track'
+
+ARTIST=$(osascript -e 'tell app "iTunes" to get artist of current track')
+NAME=$(osascript -e 'tell app "iTunes" to get name of current track')
+echo "$ARTIST - $NAME"</string>
+	<key>fallbackInput</key>
+	<string>word</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Next Track</string>
+	<key>output</key>
+	<string>showAsTooltip</string>
+	<key>tabTrigger</key>
+	<string>inext</string>
+	<key>uuid</key>
+	<string>0C78EAF0-D82F-4B74-BFE0-FBB2419B1BD9</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ '${3:file name?}' | asset_url | stylesheet_tag }}</string>
+	<key>name</key>
+	<string>stylesheet_tag</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>lstl</string>
+	<key>uuid</key>
+	<string>4B588706-CD2C-4ECB-AA2A-86F1E87E5A0D</string>
+</dict>
+</plist>
